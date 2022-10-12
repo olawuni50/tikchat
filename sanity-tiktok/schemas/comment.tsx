@@ -1,9 +1,9 @@
-import { CommentIcon } from '@sanity/icons'
+// import { CommentIcon } from '@sanity/icons'
 export default {
     name:'comment',
     title:'Comment',
     type:'document',
-    icon: CommentIcon,
+    // icon: CommentIcon,
     fields: [
         {
             name:'postedBy',
