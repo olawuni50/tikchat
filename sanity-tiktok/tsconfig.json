@@ -1,0 +1,6 @@
+{
+  // Note: This config is only used to help editors like VS Code understand/resolve
+  // parts, the actual transpilation is done by babel. Any compiler configuration in
+  // here will be ignored.
+  "include": ["./node_modules/@sanity/base/types/**/*.ts", "./**/*.ts", "./**/*.tsx", "schemas/postedBy.js", "schemas/post.js", "schemas/schema.js", "schemas/comment.js", "schemas/post.jsx", "schemas/post.jsx", "schemas/postedBy.js", "schemas/user.js", "schemas/schema.js", "schemas/post.jsx", "schemas/postedBy.js", "schemas/user.js", "schemas/schema.js"]
+}

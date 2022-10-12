@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "sanity-tiktok/schemas/postedBy.js", "sanity-tiktok/schemas/post.js", "sanity-tiktok/schemas/schema.js", "sanity-tiktok/schemas/comment.js", "sanity-tiktok/schemas/post.jsx", "sanity-tiktok/schemas/post.jsx", "sanity-tiktok/schemas/postedBy.js", "sanity-tiktok/schemas/user.js", "sanity-tiktok/schemas/schema.js", "sanity-tiktok/schemas/post.jsx", "sanity-tiktok/schemas/postedBy.js", "sanity-tiktok/schemas/user.js", "sanity-tiktok/schemas/schema.js"],
+  "exclude": ["node_modules"]
+}
